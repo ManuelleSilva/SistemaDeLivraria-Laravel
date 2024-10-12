@@ -4,7 +4,7 @@
 
 
     <H2>Lista de livros </H2>
-    <form method="POST" action="" class="mb-3 w-50">
+    <!-- <form method="POST" action="" class="mb-3 w-50">
         <div class="row mb-3 justify-content-center">
             <label for="inputLivro" class="col-sm-3 col-form-label">Digite o livro</label>
             <div class="col-sm-6">
@@ -14,7 +14,7 @@
         <div class="d-flex justify-content-center">
             <button type="submit" class="btn btn-primary">Pesquisar</button>
         </div>
-    </form>
+    </form> -->
 
 
     <table class="table table-striped w-75">
